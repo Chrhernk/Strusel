@@ -1,0 +1,10 @@
+C:\Users\Christopher\source\repos\Strusel\bin\Debug\Strusel.exe.config
+C:\Users\Christopher\source\repos\Strusel\bin\Debug\Strusel.exe
+C:\Users\Christopher\source\repos\Strusel\bin\Debug\Strusel.pdb
+C:\Users\Christopher\source\repos\Strusel\obj\Debug\Strusel.csproj.AssemblyReference.cache
+C:\Users\Christopher\source\repos\Strusel\obj\Debug\Strusel.Form1.resources
+C:\Users\Christopher\source\repos\Strusel\obj\Debug\Strusel.Properties.Resources.resources
+C:\Users\Christopher\source\repos\Strusel\obj\Debug\Strusel.csproj.GenerateResource.cache
+C:\Users\Christopher\source\repos\Strusel\obj\Debug\Strusel.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\source\repos\Strusel\obj\Debug\Strusel.exe
+C:\Users\Christopher\source\repos\Strusel\obj\Debug\Strusel.pdb
